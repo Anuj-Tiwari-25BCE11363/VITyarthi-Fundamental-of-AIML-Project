@@ -2,9 +2,13 @@
 # Sign-Link: Real-time ASL Recognition System
 
 **Author:** Anuj Tiwari
+
 **Registration:** 25BCE11363
-**Course:** Fundamental of AI & Machine Learning  
-**Institution:** VIT  
+
+**Course:** Fundamental of AI & Machine Learning
+
+**Institution:** VIT Bhopal
+
 
 ---
 
