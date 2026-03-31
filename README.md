@@ -1,4 +1,4 @@
-## Fundamental-of-AIML-Project
+## VITyarthi Fundamental-of-AIML-Project
 # Sign-Link: Real-time ASL Recognition System
 
 **Author:** Anuj Tiwari
